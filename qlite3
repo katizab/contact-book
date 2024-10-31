@@ -1,0 +1,5 @@
+ id | first_name | last_name | date_of_birth | street_address_1  | street_address_2 |     city     | state |    zip     |       phone        |                  notes                  |          created_at           
+----+------------+-----------+---------------+-------------------+------------------+--------------+-------+------------+--------------------+-----------------------------------------+-------------------------------
+  1 | Carol      | Reynolds  | 2016-10-20    | 4556 Mirna Shores | Apt. 111         | Stromanhaven | DE    | 13654-8312 | 308-571-8066 x3565 | We had a wonderful dinner at La Tavola! | 2024-10-31 05:31:10.241299+00
+(1 row)
+
